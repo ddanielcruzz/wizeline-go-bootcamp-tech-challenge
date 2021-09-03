@@ -1,7 +1,5 @@
 # Wizeline Go Bootcamp Tech Challenge
 
-- README with instructions on how to run the project (language version, framework, or running dependencies, if any).
-
 ## Description
 
 This is a project for being selected for Wizeline Go Bootcamp.
