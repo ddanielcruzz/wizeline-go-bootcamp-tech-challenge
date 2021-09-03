@@ -25,7 +25,7 @@ app.get("/joke", async (_req, res) => {
     "https://api.chucknorris.io/jokes/random"
   ).then((apiRes) => apiRes.json());
 
-  res.send(response.value);
+  return res.send(response.value);
 });
 
 app.get("*", (_req, res) => {
